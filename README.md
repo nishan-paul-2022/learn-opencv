@@ -22,7 +22,7 @@
 - [image_bordering](https://www.geeksforgeeks.org/python-opencv-cv2-copymakeborder-method/)
 - [image_pyramid](https://www.geeksforgeeks.org/image-pyramid-using-opencv-python/)
 - [image_grayscaling](https://www.geeksforgeeks.org/python-grayscaling-of-imgs-using-opencv/)
-- [image_scaling](https://www.geeksforgeeks.org/image-resizing-using-opencv-python/) / [@2nd](https://www.geeksforgeeks.org/image-processing-in-python-scaling-rotating-shifting-and-edge-detection/)
+- [image_scaling](https://www.geeksforgeeks.org/image-resizing-using-opencv-python/) | [@2nd](https://www.geeksforgeeks.org/image-processing-in-python-scaling-rotating-shifting-and-edge-detection/)
 - [image_rotating](https://www.geeksforgeeks.org/image-processing-in-python-scaling-rotating-shifting-and-edge-detection/)
 - [image_shifting](https://www.geeksforgeeks.org/image-processing-in-python-scaling-rotating-shifting-and-edge-detection/)
 
@@ -39,7 +39,7 @@
 - [image_denoising](https://www.geeksforgeeks.org/python-denoising-of-colored-images-using-opencv/)
 - [image_inpainting](https://www.geeksforgeeks.org/image-inpainting-using-opencv/)
 - [image_bilateral_filtering](https://www.geeksforgeeks.org/python-bilateral-filtering/)
-- [image_cartooning](https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/) / [@2n](https://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/)
+- [image_cartooning](https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/) | [@2nd](https://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/)
 - [image_registration](https://www.geeksforgeeks.org/image-registration-using-opencv-python/)
 
 ## [N06_IMAGE_HISTOGRAM](https://github.com/nishan-paul-2022/learn-opencv/tree/main/[N06_IMAGE_HISTOGRAM)
