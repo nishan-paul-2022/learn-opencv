@@ -42,7 +42,7 @@
 - [image_cartooning](https://www.geeksforgeeks.org/cartooning-an-image-using-opencv-python/) | [@2nd](https://datahacker.rs/002-opencv-projects-how-to-cartoonize-an-image-with-opencv-in-python/)
 - [image_registration](https://www.geeksforgeeks.org/image-registration-using-opencv-python/)
 
-## [N06_IMAGE_HISTOGRAM](https://github.com/nishan-paul-2022/learn-opencv/blob/main/[N06_IMAGE_HISTOGRAM.py)
+## [N06_IMAGE_HISTOGRAM](https://github.com/nishan-paul-2022/learn-opencv/blob/main/N06_IMAGE_HISTOGRAM.py)
 - [gray_image_histogram_using_plot_hist](https://docs.opencv.org/3.4/d4/d1b/tutorial_histogram_equalization.html)
 - [gray_image_histogram_using_calc_hist](https://www.pyimagesearch.com/2021/04/28/opencv-image-histograms-cv2-calchist/)
 - [color_and_masked_image_histogram](https://www.pyimagesearch.com/2021/04/28/opencv-image-histograms-cv2-calchist/)
